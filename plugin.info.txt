@@ -1,0 +1,7 @@
+base   zotero
+author Stefan Macke
+email  me [at] stefan [dash] macke [dot] de
+date   2013-03-02
+name   Zotero Plugin
+desc   Allows you to quote your literature references saved in Zotero with a LaTeX-like syntax.
+url    https://www.dokuwiki.org/plugin:zotero
