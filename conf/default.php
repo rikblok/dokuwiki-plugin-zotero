@@ -5,7 +5,6 @@
  * @author Rik Blok <rik.blok@ubc.ca>
  */
  
-/*
 $conf['username'] = 'YOURUSERNAME'; 
 $conf['key'] = 'YOURZOTEROKEY';
 $conf['userid'] = 'YOURUSERID';
@@ -15,4 +14,3 @@ $conf['authorFormat'] = 'LASTNAME, FIRSTNAME';
 $conf['parentheses'] = '[,]';
 $conf['pagePrefix'] = 'p.';
 $conf['titleFormat'] = 'AUTHOR: TITLE (DATE)';
-*/
