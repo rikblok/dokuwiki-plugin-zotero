@@ -1,11 +1,6 @@
 <?php
 
-$lang['url'] = 'The URL from which MathJax will be loaded.';
-$lang['config'] = '(Optional) MathJax configuration; javascript code executed when MathJax loads.  See http://docs.mathjax.org/en/latest/options/';
-$lang['configfile'] = '(Optional) One or more files containing MathJax configuration commands.  Specify paths relative to the dokuwiki installation directory (e.g. conf/mathjax.js or data/pages/mathjaxconf.txt), and separate multiple files with semicolons.';
-
 $lang['username'] = 'this username is used to connect to the Zotero website';
-username = rikblok 
 $lang['key'] = 'this key is used to get access to Zotero\'s RSS feed';
 $lang['userid'] = 'the user ID for the above username'];
 $lang['autoupdate'] = 'if this is set to 1, the plugin will try to read unknown cite keys from Zotero\'s Atom feed';
