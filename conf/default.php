@@ -5,6 +5,10 @@
  * @author Rik Blok <rik.blok@ubc.ca>
  */
 
+ini_set('display_errors',1); 
+error_reporting(E_ALL);
+ 
+
 $conf['username'] = 'YOURUSERNAME'; 
 $conf['key'] = 'YOURZOTEROKEY';
 $conf['userid'] = 'YOURUSERID';

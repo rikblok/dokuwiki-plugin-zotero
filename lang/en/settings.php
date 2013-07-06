@@ -1,5 +1,8 @@
 <?php
 
+ini_set('display_errors',1); 
+error_reporting(E_ALL);
+ 
 $lang['username'] = 'this username is used to connect to the Zotero website';
 $lang['key'] = 'this key is used to get access to Zotero\'s RSS feed';
 $lang['userid'] = 'the user ID for the above username'];

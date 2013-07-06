@@ -5,6 +5,10 @@
  * @author Rik Blok <rik.blok@ubc.ca>
  */
 
+ini_set('display_errors',1); 
+error_reporting(E_ALL);
+ 
+
 $meta['username'] = array('string');
 $meta['key'] = array('string');
 $meta['userid'] = array('string');
