@@ -8,6 +8,10 @@
  * @author	Stefan Macke <me@stefan-macke.de>
  */
 
+ini_set('display_errors',1); 
+error_reporting(E_ALL);
+ 
+ 
 if (!defined('DOKU_INC'))
 {
 	define('DOKU_INC', realpath(dirname(__FILE__) . '/../../') . DIRECTORY_SEPARATOR);
