@@ -54,7 +54,9 @@ abstract class ZoteroConfig
 
 	public function getConfig($category, $key)
 	{
-		$value = @$this->config[$category][$key];
+		// override config.ini with configuration manager [Rik, 2013-07-05]
+		//$value = @$this->config[$category][$key];
+		$value = @$this->getConf($key);
 		return $value;
 	}
 	
